@@ -1,5 +1,5 @@
 """
-hello.py: Quoting from "Cygnus X-1 Book Two: Hemispheres.
+hello.py: Quoting from "Cygnus X-1 Book Two: Hemispheres, Rush".
 """
 
 # System and third-party imports.
@@ -15,8 +15,7 @@ SECTION_TITLES = ['prelude',
                   'dionysus: bringer of love',
                   'armageddon: the battle of heart and mind',
                   'cygnus: bringer of balance',
-                  'the sphere: a kind of dream'
-                  ]
+                  'the sphere: a kind of dream']
 
 SECTION_LYRICS = {
     SECTION_TITLES[0]: 'When our weary world was young\n'
